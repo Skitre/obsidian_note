@@ -57,4 +57,4 @@ skitre5515@outlook.com
 
 ### 鸣谢
 
-- 感谢[BlandAlpha (CanisAlpha)](https://github.com/BlandAlpha)佬的开源，本人为二战考生，一战大清失败，于毕业后开始进行第二次备考，想要冲抓基础但是时间紧张，全网找适合重温知识点的笔记，BA佬的笔记让我眼前一亮，遂萌生在此基础上进行复习的想法，也希望能帮到大家。
+- 感谢[BlandAlpha (CanisAlpha)](https://github.com/BlandAlpha)佬的开源，本人为二战考生，一战大清失败，于毕业后开始进行第二次备考，想要冲抓基础但是时间紧张，全网找适合重温知识点的笔记，BA佬的笔记让我眼前一亮，遂萌生在此基础上进行复习的想法，也希望能帮到大家。+
