@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "999f3a0a811d8f59",
+        "id": "3bb47cc37326f530",
         "type": "tabs",
         "children": [
           {
-            "id": "9cadc715c6b0472b",
+            "id": "7e3f71f1f77edad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03_408/02_计算机组成原理/01-计算机系统概述.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-计算机系统概述"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "完善",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "d7472a4391b2c7bd",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03_408/02_计算机组成原理/01-计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "01-计算机系统概述 的反向链接列表"
             }
           },
           {
@@ -142,20 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎！.md",
+                "file": "03_408/02_计算机组成原理/01-计算机系统概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎！ 的大纲"
+              "title": "01-计算机系统概述 的大纲"
+            }
+          },
+          {
+            "id": "9976f9d401dfea51",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 865.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,56 +178,57 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9cadc715c6b0472b",
+  "active": "dcb32790da0f9d2c",
   "lastOpenFiles": [
-    "assets/d_int_pol.png",
-    "assets/d_int_2.png",
-    "assets/d_int_1.png",
-    "assets/1+1n_series.jpg",
-    "README.md",
+    "assets/Pasted image 20250629185459.png",
+    "assets/Pasted image 20250629184419.png",
+    "assets/Pasted image 20250629184312.png",
+    "assets/Pasted image 20250629172601.png",
+    "03_408/02_计算机组成原理/01-计算机系统概述.md",
+    "assets/存储程序工作.png",
+    "assets/Pasted image 20240621140426.png",
+    "assets/Pasted image 20250629172549.png",
+    "assets/YF}Q5P6S$F3ECDB[2QZ_R_N.png",
+    "Excalidraw/Drawing 2025-06-29 18.16.39.excalidraw.md",
+    "Excalidraw",
+    "assets/存储体.png",
+    "assets/计算机组成.png",
+    "01_数学/1-6. 二重积分/二重积分计算.md",
+    "01_数学/1-6. 二重积分/6. 二重积分.md",
+    "01_数学/1-6. 二重积分/二重积分对称性.md",
+    "assets/t1.png",
+    "高等数学主目录.md",
+    "03_408/02_计算机组成原理/01_计算机系统概述/01-计算机系统层次结构.md",
+    "线性代数主目录.md",
+    "03_408/02_计算机组成原理/01_计算机系统概述",
+    "03_408/未命名.md",
+    "03_408/02_计算机组成原理",
+    "01_数学/1-3. 一元函数微分学/3. 一元函数微分学.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/导数的四则运算.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/基本求导公式.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/隐函数导数.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/幂指函数求导法.md",
+    "01_数学/1-3. 一元函数微分学/2. 计算/复合函数导数.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/3. 物理应用/物理应用与相关变化率.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/3-3. 应用.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的概念.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分不等式.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/微分等式.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/2. 中值定理、微分等式与微分不等式/中值定理.md",
+    "01_数学/1-3. 一元函数微分学/3. 应用/4.题型",
     "03_408/笔记",
     "03_408/教材",
     "02_英语/外刊",
     "04_政治",
     "03_408",
-    "02_英语",
-    "高等数学主目录.md",
-    "线性代数主目录.md",
-    "01_数学/1-1. 函数的极限与连续/1. 函数的极限与连续.md",
-    "01_数学/1-5. 多元函数微分学/多元函数微分法则.md",
-    "未命名.md",
-    "01_数学/1-5. 多元函数微分学/5. 多元函数微分学.md",
-    "01_数学/1-1. 函数的极限与连续/等价无穷小.md",
-    "01_数学",
-    "01_数学/1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
-    "().md",
-    "assets/readme/feature.png",
-    "assets/readme/feature_link.png",
-    "assets/readme/graph.png",
-    "assets/readme/overall.png",
-    "assets/readme/Support.png",
-    "assets/formulas/Leibniz_formula.jpg",
-    "01_数学/0. 杂项/应试技巧.md",
-    "assets/favicon/favicon-32x32.png",
-    "01_数学/0. 杂项/灵光乍现.md",
-    "01_数学/0. 杂项/重要题目.md",
-    "01_数学/0. 杂项/常用公式.md",
-    "01_数学/0. 杂项/均值不等式.md",
-    "关于本项目.md",
-    "01_数学/1-2. 数列极限/单调有界原则.md",
-    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/费马定理.md",
-    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/极值点与拐点的重要结论.md",
-    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/极值的定义.md",
-    "01_数学/1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
-    "01_数学/1-3. 一元函数微分学/1. 概念/导数.md",
-    "01_数学/2-1. 行列式/重要行列式.md",
-    "01_数学/1-4. 一元函数积分学/2. 计算/Gamma函数.md",
-    "01_数学/1-4. 一元函数积分学/2. 计算/基本积分公式.md",
-    "01_数学/2-6. 二次型",
-    "01_数学/2-5. 特征值与特征向量",
-    "01_数学/2-4. 线性方程组"
+    "02_英语"
   ]
 }
