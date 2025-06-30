@@ -186,6 +186,7 @@ OuuuN
 OnKImm
 Owvv
 OLN
+Operations
 iPad
 in
 int
@@ -461,6 +462,7 @@ iqqb
 irm
 iMRH
 iddfpxHv
+include
 Windows
 Wk
 WyRk
@@ -883,6 +885,8 @@ GSEu
 GYoWqHP
 Gcq
 Gkg
+Ghz
+GFLOPS
 md
 markdown
 mode
@@ -2394,6 +2398,9 @@ CHV
 Coa
 CzU
 CGG
+CPUI
+CPI
+Cycle
 Pull
 Push
 Please
@@ -2640,6 +2647,8 @@ Pkt
 PZAED
 PBAdA
 PWw
+Per
+PFLOPS
 Isuue
 Instructions
 IHDR
@@ -2913,6 +2922,8 @@ IDATJ
 INN
 ITP
 ISA
+Instruction
+IPS
 YouTube
 Ye
 YS
@@ -3936,6 +3947,8 @@ cyyyeeutt
 cHH
 cSK
 cemkjj
+cpp
+cpu
 using
 use
 ut
@@ -4946,6 +4959,7 @@ TUE
 TjD
 TRJ
 Tze
+TFLOPS
 will
 workspace
 with
@@ -6903,6 +6917,7 @@ SQQqzz
 Swo
 SXh
 Sjuv
+Second
 viewing
 vU
 vf
@@ -7379,6 +7394,8 @@ FUWV
 FMj
 FpD
 FZa
+FLOPS
+Floating
 each
 every
 eK
@@ -7858,6 +7875,7 @@ pvvnnfzxx
 pooo
 pabj
 pKK
+point
 xoX
 xO
 xT
@@ -10571,6 +10589,7 @@ huu
 hTJ
 htt
 hiyI
+hello
 nL
 nRG
 nuu
@@ -11053,6 +11072,8 @@ MMMa
 MMMMOO
 MNnn
 Mtuue
+MIPS
+MFLOPS
 ZO
 ZR
 Zi
@@ -11309,6 +11330,7 @@ ZIQJ
 Zqc
 Zke
 Zcbl
+ZFLOPS
 DN
 DKn
 DB
@@ -12544,6 +12566,7 @@ EVq
 EUU
 EDo
 Eqxh
+EFLOPS
 LK
 Lv
 LYYYf

@@ -27,7 +27,7 @@ $$\Gamma (\alpha - 1) = \int^{+\infty}_{0} x^{\alpha} e^{-x} \mathrm{d}x = \alph
 
 ### 若 $x$ 为整数
 
-后一项是前一项的 $\alpha$ 倍，即 $\Gamma (\alpha - 1) = \alpha \Gamma(\alpha)$ ，所以找第一项：
+后一项是前一项的 $\alpha$ 倍，即 $\Gamma (\alpha + 1) = \alpha \Gamma(\alpha)$ ，所以找第一项：
 
 $$\Gamma (1) = 1$$
 
