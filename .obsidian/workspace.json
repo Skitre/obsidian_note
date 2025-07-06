@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_408/02_计算机组成原理/02-数据的表示和运算.md",
+                "file": "03_408/02_计算机组成原理/03-存储系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-数据的表示和运算"
+              "title": "03-存储系统"
             }
           }
         ]
@@ -184,17 +184,20 @@
   },
   "active": "7e3f71f1f77edad5",
   "lastOpenFiles": [
+    "assets/Pasted image 20250706145907.png",
+    "assets/Pasted image 20250706145847.png",
+    "03_408/02_计算机组成原理/02-数据的表示和运算.md",
+    "03_408/02_计算机组成原理/01-计算机系统概述.md",
+    "03_408/02_计算机组成原理/03-存储系统.md",
+    "assets/Pasted image 20250706144210.png",
+    "assets/Pasted image 20250706144152.png",
+    "assets/Pasted image 20250706143412.png",
+    "assets/Pasted image 20250706143024.png",
+    "assets/Pasted image 20250706143022.png",
     "assets/Pasted image 20250630181507.png",
     "assets/Pasted image 20250630181442.png",
     "assets/Pasted image 20250630181308.png",
     "assets/Pasted image 20250630180800.png",
-    "assets/Pasted image 20250630180620.png",
-    "assets/Pasted image 20250630180502.png",
-    "assets/Pasted image 20250630173709.png",
-    "assets/Pasted image 20250630172908.png",
-    "assets/Pasted image 20250630172814.png",
-    "assets/Pasted image 20250630170212.png",
-    "assets/Pasted image 20250630170205.png",
     "03_408/02_计算机组成原理/课后题一刷.md",
     "01_数学/1-4. 一元函数积分学/2. 计算/定积分的计算.md",
     "01_数学/1-4. 一元函数积分学/2. 计算/变限积分的计算.md",
@@ -217,9 +220,6 @@
     "01_数学/1-4. 一元函数积分学/1. 概念/反常积分.md",
     "01_数学/1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "01_数学/1-4. 一元函数积分学/1. 概念/变限积分.md",
-    "01_数学/1-4. 一元函数积分学/1. 概念/定积分.md",
-    "01_数学/1-4. 一元函数积分学/1. 概念/不定积分.md",
-    "03_408/02_计算机组成原理/01-计算机系统概述.md",
     "Excalidraw",
     "03_408/02_计算机组成原理/01_计算机系统概述",
     "03_408/02_计算机组成原理",

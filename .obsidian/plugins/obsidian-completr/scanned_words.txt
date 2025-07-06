@@ -1424,6 +1424,8 @@ Rjk
 RHZi
 RTY
 Rkk
+RAM
+ROM
 assets
 all
 and
@@ -2401,6 +2403,9 @@ CGG
 CPUI
 CPI
 Cycle
+CRC
+Cout
+Cache
 Pull
 Push
 Please
@@ -3949,6 +3954,7 @@ cSK
 cemkjj
 cpp
 cpu
+cache
 using
 use
 ut
@@ -6918,6 +6924,7 @@ Swo
 SXh
 Sjuv
 Second
+SRAM
 viewing
 vU
 vf
@@ -8867,6 +8874,7 @@ ypd
 yqa
 yFD
 yWg
+you
 kL
 kI
 kO
@@ -9134,6 +9142,7 @@ kGV
 kbb
 kCo
 kyQ
+konw
 Umu
 Uf
 Uz
@@ -11074,6 +11083,7 @@ MNnn
 Mtuue
 MIPS
 MFLOPS
+MOS
 ZO
 ZR
 Zi
@@ -11582,6 +11592,7 @@ DAX
 DGG
 DBUx
 DQD
+DRAM
 zz
 zD
 zk
